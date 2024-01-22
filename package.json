@@ -8,8 +8,11 @@
     "build": "tsc && vite build"
   },
   "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^1.6.5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "zustand": "^4.5.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
